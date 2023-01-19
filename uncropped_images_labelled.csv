@@ -1,4 +1,4 @@
-filename,label
+Images,Label
 images/img_1.jpg,Neutral
 images/img_2.jpg,Neutral
 images/img_3.jpg,Neutral
@@ -472,7 +472,7 @@ images/img_470.jpg,Neutral
 images/img_471.jpg,Angry
 images/img_472.jpg,Disgust
 images/img_473.jpg,Neutral
-images/img_474.jpg,FALSE
+images/img_474.jpg,Neutral
 images/img_475.jpg,Neutral
 images/img_476.jpg,Neutral
 images/img_477.jpg,Neutral
